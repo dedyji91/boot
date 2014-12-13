@@ -1,0 +1,46 @@
+.navbar-nav>li+li:before{
+	content: "/\00a0";
+	float: left;
+	padding-top: 15px;
+}
+.navbar-default .navbar-nav>li>a {
+	color:#164e64;
+}
+.line{
+	text-align: center;
+}
+.stxt{
+	font-size: 10px;
+	color: gray;
+}
+
+.line p{
+	margin:0px;
+}
+
+.blog figure img{
+	width: 100%;
+}
+
+.mrb{
+	margin-bottom: 10px;
+}
+.img{
+	width: 100%;
+}
+.block{
+	display: inline-block;
+	font-size: 10px;
+}
+.block img{
+	padding-left: 8px;
+}
+
+.load{
+	text-align: center;
+	padding: 10px;
+}
+
+.col-md-8 p{
+line-height: 43px;
+}
